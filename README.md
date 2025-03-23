@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @bafangwysolo66，一名热衷于网络安全技术的探索者。
+- 🌱 打游戏菜的抠脚，但是又菜又爱玩....
+- 🎯 我的技术兴趣 ：Web安全漏洞挖掘与漏洞复现，红蓝对抗实战攻防，安全工具开发
+- 📚 学习历程 ：通过在漏洞平台SRC、vulnhub靶场、红日靶场积累实战经验，持续在知识大陆freebuf分享技术笔记
+- 📫 Email：baijingting2023@gmail.com
+- 💬 社区：https://www.freebuf.com/author/solo66
+- 👯‍♀️ 欢迎志同道合的朋友一起交流
+- 🛠  技术栈 | Tech Stack：
+- 🌐 SRC/漏洞挖掘
+- 📦 Python安全工具开发-深入学习中ing....
+- ⚡ 应急响应
+- 🔧 正在开发：Python武器库之SSH服务暴力破解、Python武器库之Redis未授权扫描器等...
+- 😄 作为刚学不久Python安全工具开发的小白，请各位师傅大佬们多多指点！！！
