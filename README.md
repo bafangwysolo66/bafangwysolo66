@@ -3,7 +3,7 @@
 - 🎯 我的技术兴趣 ：Web安全漏洞挖掘与漏洞复现，红蓝对抗实战攻防，安全工具开发
 - 📚 学习历程 ：通过在漏洞平台SRC、vulnhub靶场、红日靶场积累实战经验，持续在知识大陆freebuf分享技术笔记
 - 📫 Email：baijingting2023@gmail.com
-- 💬 社区：https://www.freebuf.com/author/solo66
+- 💬 技术社区：https://www.freebuf.com/author/solo66
 - 👯‍♀️ 欢迎志同道合的朋友一起交流
 - 🛠  技术栈 | Tech Stack：
 - 🌐 SRC/漏洞挖掘
